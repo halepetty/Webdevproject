@@ -1,0 +1,30 @@
+.common{
+    text-align: center;
+    position: static;
+}
+.navigation{
+    height: 100px;
+    background-color: #95bdda;
+    font-family: 'Courier New', Courier, monospace;
+    color:white
+}
+.tableau{
+    text-align: center;
+    background-color: rgb(174, 197, 226);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.footer{
+    height: 100px;
+    background-color: rgb(60, 118, 205);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.tableauPlaceholder{
+    width: 50%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
